@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\crosscutting.configuration\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|solutionrelative:crosscutting.configuration\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\crosscutting.configuration\\appsettingsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|solutionrelative:crosscutting.configuration\\appsettingsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\crosscutting.configuration\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|solutionrelative:crosscutting.configuration\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\crosscutting.configuration\\appmodels\\connectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B158C4-8AF8-17B2-1437-06582686C792}|CrossCutting.Configuration\\CrossCutting.Configuration.csproj|solutionrelative:crosscutting.configuration\\appmodels\\connectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.query\\queries\\entity\\getentitybyid\\getentitybyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|solutionrelative:infrastructure.data.query\\queries\\entity\\getentitybyid\\getentitybyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.query\\queries\\entity\\getentitybyid\\getentitybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|solutionrelative:infrastructure.data.query\\queries\\entity\\getentitybyid\\getentitybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.query\\queries\\entity\\getentitybyid\\getentitybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|solutionrelative:infrastructure.data.query\\queries\\entity\\getentitybyid\\getentitybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.query\\queries\\entity\\getallentity\\getallentityqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|solutionrelative:infrastructure.data.query\\queries\\entity\\getallentity\\getallentityqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.query\\queries\\entity\\getallentity\\getallentityqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|solutionrelative:infrastructure.data.query\\queries\\entity\\getallentity\\getallentityqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.query\\queries\\entity\\getallentity\\getallentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B5B0D7-94B3-4BA4-8025-4202A62F0D5D}|Infrastructure.Data.Query\\Infrastructure.Data.Query.csproj|solutionrelative:infrastructure.data.query\\queries\\entity\\getallentity\\getallentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C412F6BA-9AB7-C3A5-836F-43E8CED803CB}|Infrastructure.Data.Mongo\\Infrastructure.Data.Mongo.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.mongo\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C412F6BA-9AB7-C3A5-836F-43E8CED803CB}|Infrastructure.Data.Mongo\\Infrastructure.Data.Mongo.csproj|solutionrelative:infrastructure.data.mongo\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C412F6BA-9AB7-C3A5-836F-43E8CED803CB}|Infrastructure.Data.Mongo\\Infrastructure.Data.Mongo.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.mongo\\repositories\\v1\\entity\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C412F6BA-9AB7-C3A5-836F-43E8CED803CB}|Infrastructure.Data.Mongo\\Infrastructure.Data.Mongo.csproj|solutionrelative:infrastructure.data.mongo\\repositories\\v1\\entity\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C412F6BA-9AB7-C3A5-836F-43E8CED803CB}|Infrastructure.Data.Mongo\\Infrastructure.Data.Mongo.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\infrastructure.data.mongo\\repositories\\v1\\base\\mongodbbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C412F6BA-9AB7-C3A5-836F-43E8CED803CB}|Infrastructure.Data.Mongo\\Infrastructure.Data.Mongo.csproj|solutionrelative:infrastructure.data.mongo\\repositories\\v1\\base\\mongodbbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\domain\\command\\example\\create\\createentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\command\\example\\create\\createentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\domain\\command\\example\\create\\createentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\command\\example\\create\\createentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\domain\\command\\example\\delete\\deleteentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\command\\example\\delete\\deleteentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\domain\\command\\example\\delete\\deleteentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\command\\example\\delete\\deleteentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\domain\\command\\example\\update\\updateentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\command\\example\\update\\updateentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\felipe\\desktop\\projetobase\\dafaulttemplate\\domain\\command\\example\\update\\updateentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\command\\example\\update\\updateentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "CrossCutting.Configuration\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\GlobalUsings.cs",
+              "RelativeToolTip": "CrossCutting.Configuration\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:26.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettingsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\AppSettingsConfiguration.cs",
+              "RelativeDocumentMoniker": "CrossCutting.Configuration\\AppSettingsConfiguration.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\AppSettingsConfiguration.cs",
+              "RelativeToolTip": "CrossCutting.Configuration\\AppSettingsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:25.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\AppSettings.cs",
+              "RelativeDocumentMoniker": "CrossCutting.Configuration\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\AppSettings.cs",
+              "RelativeToolTip": "CrossCutting.Configuration\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:24.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\AppModels\\ConnectionSettings.cs",
+              "RelativeDocumentMoniker": "CrossCutting.Configuration\\AppModels\\ConnectionSettings.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\CrossCutting.Configuration\\AppModels\\ConnectionSettings.cs",
+              "RelativeToolTip": "CrossCutting.Configuration\\AppModels\\ConnectionSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:23.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetEntityByIdQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryResponse.cs",
+              "RelativeToolTip": "Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEntityByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryHandler.cs",
+              "RelativeToolTip": "Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:15.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetEntityByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQuery.cs",
+              "RelativeToolTip": "Infrastructure.Data.Query\\Queries\\Entity\\GetEntityById\\GetEntityByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:14.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllEntityQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryResponse.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryResponse.cs",
+              "RelativeToolTip": "Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:13.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllEntityQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryHandler.cs",
+              "RelativeToolTip": "Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:12.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllEntityQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQuery.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQuery.cs",
+              "RelativeToolTip": "Infrastructure.Data.Query\\Queries\\Entity\\GetAllEntity\\GetAllEntityQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:11.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Mongo\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Mongo\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Mongo\\GlobalUsings.cs",
+              "RelativeToolTip": "Infrastructure.Data.Mongo\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:06.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Mongo\\Repositories\\v1\\Entity\\EntityRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Mongo\\Repositories\\v1\\Entity\\EntityRepository.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Mongo\\Repositories\\v1\\Entity\\EntityRepository.cs",
+              "RelativeToolTip": "Infrastructure.Data.Mongo\\Repositories\\v1\\Entity\\EntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:42:01.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MongoDbBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Mongo\\Repositories\\v1\\Base\\MongoDbBaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data.Mongo\\Repositories\\v1\\Base\\MongoDbBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Infrastructure.Data.Mongo\\Repositories\\v1\\Base\\MongoDbBaseRepository.cs",
+              "RelativeToolTip": "Infrastructure.Data.Mongo\\Repositories\\v1\\Base\\MongoDbBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:41:59.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEntityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Create\\CreateEntityCommand.cs",
+              "RelativeDocumentMoniker": "Domain\\Command\\Example\\Create\\CreateEntityCommand.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Create\\CreateEntityCommand.cs",
+              "RelativeToolTip": "Domain\\Command\\Example\\Create\\CreateEntityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:41:48.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEntityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Create\\CreateEntityCommandHandler.cs",
+              "RelativeDocumentMoniker": "Domain\\Command\\Example\\Create\\CreateEntityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Create\\CreateEntityCommandHandler.cs",
+              "RelativeToolTip": "Domain\\Command\\Example\\Create\\CreateEntityCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:41:47.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteEntityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Delete\\DeleteEntityCommand.cs",
+              "RelativeDocumentMoniker": "Domain\\Command\\Example\\Delete\\DeleteEntityCommand.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Delete\\DeleteEntityCommand.cs",
+              "RelativeToolTip": "Domain\\Command\\Example\\Delete\\DeleteEntityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:41:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteEntityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Delete\\DeleteEntityCommandHandler.cs",
+              "RelativeDocumentMoniker": "Domain\\Command\\Example\\Delete\\DeleteEntityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Delete\\DeleteEntityCommandHandler.cs",
+              "RelativeToolTip": "Domain\\Command\\Example\\Delete\\DeleteEntityCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:41:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateEntityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Update\\UpdateEntityCommand.cs",
+              "RelativeDocumentMoniker": "Domain\\Command\\Example\\Update\\UpdateEntityCommand.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Update\\UpdateEntityCommand.cs",
+              "RelativeToolTip": "Domain\\Command\\Example\\Update\\UpdateEntityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:41:42.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateEntityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Update\\UpdateEntityCommandHandler.cs",
+              "RelativeDocumentMoniker": "Domain\\Command\\Example\\Update\\UpdateEntityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\ProjetoBase\\DafaultTemplate\\Domain\\Command\\Example\\Update\\UpdateEntityCommandHandler.cs",
+              "RelativeToolTip": "Domain\\Command\\Example\\Update\\UpdateEntityCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:41:41.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

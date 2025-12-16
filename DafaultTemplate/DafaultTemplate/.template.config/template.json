@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Felipe Ricci",
+  "classifications": [ "Web", "API", ".NET", "Clean Architecture" ],
+  "identity": "FelipeRicci.DefaultTemplate.Api",
+  "name": "Felipe Clean API Template",
+  "shortName": "felipe-api",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "DefaultTemplate",
+  "preferNameDirectory": true
+}
