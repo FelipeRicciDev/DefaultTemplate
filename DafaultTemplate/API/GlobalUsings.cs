@@ -1,0 +1,13 @@
+﻿global using API.Infrastructure.IoC;
+global using Domain.Command.Example.Create;
+global using Domain.Command.Example.Delete;
+global using Domain.Command.Example.Update;
+global using Domain.Interfaces.Example.Entity;
+global using Infrastructure.Data.Mongo.Repositories.v1.Entity;
+global using Infrastructure.Data.Query.Queries.Entity.GetAllEntity;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Net;
+global using System.Reflection;
+global using Microsoft.OpenApi.Models;
+global using Infrastructure.Data.Query.Queries.Entity.GetEntityById;
